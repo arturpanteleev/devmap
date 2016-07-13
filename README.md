@@ -1,36 +1,38 @@
 # Карта развития веб-разработчика
 
-**Каждый уважающий себя разработчик должен знать:**
-- [Архитектуру компьютера](sections/architecture.md)
-- [Linux, командная строка Bash](sections/linux.md)
-- [Типы данных](sections/data_types.md)
-- [Функциональное программирование](sections/functional_programming.md)
-- [Объектно-ориентированное программирование](sections/oop.md)
-- [HTML](sections/html.md)
-- [CSS](sections/css.md)
-- [JavaScript](sections/javascript.md)
-- [Системы управления версиями](sections/vcs.md)
+**Основы, которые должен знать каждый веб-разработчик:**
+- [Умение гуглить](sections/google.md)
+- [Архитектура компьютера](sections/architecture.md)
+- [Основы операционных систем](sections/operating_systems.md)
 - [Протокол HTTP](sections/http.md)
+- [Логика] (sections/logic.md)
+- [Основы программирования] (sections/base_programming.md)
+- [Алгоритмы и структуры данных](sections/algorithms.md)
+- [Объектно-ориентированное программирование](sections/oop.md)
+- [Регулярные выражения](sections/regexp.md) 
+- [HTML & CSS](sections/html_css.md)
+- [JavaScript](sections/javascript.md)
+- [Работа в командной строке](sections/command_line.md)
+- [Системы управления версиями](sections/vcs.md)
 - [Тестирование](sections/test.md)
 - [Безопасность сайтов](sections/security.md)
-- [Чтение книг](sections/books.md)
+- [Книги о программировании](sections/books.md)
 
-**Карта развития Back-end разработчика:**
-- [Алгоритмы](sections/algorithms.md)
-- [Серверные языки программирования](sections/server-side.md)
-- [Паттерны программирования](sections/patterns.md)
-- [Принципы программирования](sections/principles.md)
-- Регулярные выражения (Квантификация, жадность, группировка)
-- [SQL](sections/sql.md)
-- [Проектирование баз данных](sections/design_database.md)
-- Фреймворки (Laravel, Django, Ruby on Rails)
-- Пакетный менеджер (Composer, pip, gem)
-- Устройство веб-серверов и способы взаимодействия (CGI, FastCGI, event Loop)
-- Разворачивание проектов (Ansible, миграции, релизы)
+**Навыки Backend разработчика:**
+- Общие основы
+- [Серверные языки программирования](sections/server_side.md)
+- [Базы данных и SQL](sections/database.md)
+- [Принципы и шаблоны проектирования](sections/principles.md)
+- [Фреймворки](sections/frameworks.md)
+- [Пакетный менеджер] (sections/package.md)
+- [Администрирование веб-сервера] (sections/web_server.md)
+- [Deployment](sections/deployment.md)
+- [Highload](sections/highload.md)
 
-**Карта развития Front-end разработчика:**
+**Навыки Frontend разработчика:**
+- Общие основы
 - Адаптивность (Mobile first, RESS)
-- JavaScript: библиотеки (jQuery, Underscore)
+- JavaScript библиотеки (jQuery, Underscore)
 - ECMAscript 6 (основы)
 - Препроцессоры CSS (sass, less)
 - Препроцессоры JavaScript (BabelJS, CoffeeScript)
@@ -39,7 +41,11 @@
 - CSS Фреймворки (Bootstrap, Skeleton)
 - JavaScript Фреймворки (AngularJS, Backbone)
 
-**Карта развития DevOps разработчика:**
+**Навыки DevOps разработчика:**
+- Общие основы
+- Навыки Backend разработчика
+- Навыки Frontend разработчика
+- Всё выше перечисленное
 - Администрирование UNIX систем
 - Управление конфигурацией (Chef, Ansible, Puppet)
 - Виртуализация
@@ -49,4 +55,4 @@
 - Построением отказоустойчивых систем
 - Балансировка нагрузки/проксирование
 
-**Основа карты взята с сайта [Hexlet: Путь программиста](https://map.hexlet.io/)*
+
