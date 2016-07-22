@@ -41,7 +41,7 @@
 - CSS Фреймворки (Bootstrap, Skeleton)
 - JavaScript Фреймворки (AngularJS, Backbone)
 
-**Навыки DevOps разработчика:**
+**Навыки DevOps:**
 - Общие основы
 - Навыки Backend разработчика
 - Навыки Frontend разработчика

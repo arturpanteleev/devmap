@@ -5,5 +5,5 @@
 - [Google](https://support.google.com/websearch/answer/134479?hl=ru)
 
 ## Полезные ресурсы
-- [stackoverflow.com[(http://stackoverflow.com/) [RUS](http://ru.stackoverflow.com/)
+- [stackoverflow.com](http://stackoverflow.com/) [ru](http://ru.stackoverflow.com/)
 - [toster.ru](https://toster.ru/)
