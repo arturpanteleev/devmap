@@ -15,7 +15,7 @@
 - [Работа в командной строке](sections/command_line.md)
 - [Системы управления версиями](sections/vcs.md)
 - [Тестирование](sections/test.md)
-- [Безопасность сайтов](sections/security.md)
+- [Безопасность web-приложений](sections/security.md)
 - [Книги о программировании](sections/books.md)
 
 **Навыки Backend разработчика:**
